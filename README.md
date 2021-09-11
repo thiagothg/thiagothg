@@ -3,10 +3,12 @@
 - 🔭 I’m currently working on PHP & Flutter
 - 🌱 I’m currently learning Pyhton
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=thiagothg&label=Profile%20views&color=877657&style=flat" alt="Abiscula" /></p>
+
  <div>
   <a href="https://github.com/thiagothg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagothg&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagothg&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagothg&show_icons=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagothg&layout=compact&langs_count=7&theme=react"/>
 </div>
   
   <div style="display: inline_block"><br>
