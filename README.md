@@ -19,7 +19,6 @@
   <img align="center" alt="Thi-Flutter" height="40" width="100" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=whiteg">
   <img align="center" alt="Thi-dart" height="40" width="100" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" alt="Thi-node" height="40" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="right" alt="Rafa-yoda" height="120" width="150" src="https://c.tenor.com/xa0-7jBASO8AAAAC/baby-yoda.gif">
 </div>
 
 ##
